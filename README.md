@@ -1,4 +1,4 @@
-# IT-Capstone-project
+# Cal State Fullerton ISDS 577 Capstone-project
 
 House Market Prices
 Analytics – Phase 02 Report
